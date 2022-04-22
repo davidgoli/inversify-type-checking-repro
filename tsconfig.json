@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "strict": true,
+    "target": "es2020",
+    "noEmit": true
+  },
+  "include": ["*.ts"]
+}
